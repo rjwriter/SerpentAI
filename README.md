@@ -1,4 +1,4 @@
-![](https://s3.ca-central-1.amazonaws.com/serpent-ai-assets/SerpentFBCover.png)
+[Run on Repl.it](https://repl.it/badge/github/SerpentAI/SerpentAI)](https://repl.it/github/SerpentAI/SerpentAI)
 
 # Serpent.AI - Game Agent Framework (Python)
 
